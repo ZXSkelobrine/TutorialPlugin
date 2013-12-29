@@ -1,0 +1,8 @@
+name: Tutorial
+version: 1.0.0
+main: zx.tutorial.plugin.Main
+commands:
+  hello:
+    usage: /hello
+    description: Say hello to the server
+    alias: he

@@ -1,0 +1,3 @@
+useCustom: false
+messageP: 'Hello player.'
+messageS: 'Hello server.'
